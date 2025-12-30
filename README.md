@@ -21,3 +21,4 @@ Database: SQLite or Room for local data storage
 UI: Android UI components (if using Android)
 
 gfnlob bwebuo
+ickvf buefw
